@@ -96,9 +96,9 @@ paginate = 10
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
-	#[params.recentposts]
-	#	hide  = false
-	#	title = "Recent blog posts"
+	[params.recentposts]
+		hide  = true
+		title = "Recent blog posts"
 
 	[params.contact]
 		hide  = false
@@ -141,7 +141,6 @@ paginate = 10
 	name = "Home"
 	url  = "/"
 	weight = 1
-
 
 [[menu.main]]
 	name = "Blog"

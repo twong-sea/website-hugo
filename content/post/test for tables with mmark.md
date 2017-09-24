@@ -5,7 +5,7 @@ tags = []
 categories = ["Lorem"]
 menu = ""
 banner = "banners/placeholder.png"
-markup:
+markup = mmark
 +++
 
 ----------
